@@ -39,26 +39,6 @@ Changes from the micro version:
 ![Board layout](https://raw.githubusercontent.com/zortness/9v_cw_badge/master/board.png)
 
 
-## ProtoBoard Prototype 
-
-This prototype is extremely sensitive to capacitance (even touch), and lacks a true ground plane,
-though I added through-hole-pins to act as grounding feet on my steel work table. 
-
-![proto board](https://raw.githubusercontent.com/zortness/9v_cw_tx/master/proto_board.jpg)
-
-
-## SMD Prototypes
-
-I've gone through a few SMD prototypes and made a number of pad and routing mistakes. I also chose
-a number of parts poorly or just completely misread the units on the part values (nH != uH, pF != uF). 
-
-I will update when one of the boards can operate without any further modification.
-
-![proto board](https://raw.githubusercontent.com/zortness/9v_cw_tx/master/smd_proto_01.jpg)
-![proto board](https://raw.githubusercontent.com/zortness/9v_cw_tx/master/smd_proto_02.jpg)
-![proto board](https://raw.githubusercontent.com/zortness/9v_cw_tx/master/smd_proto_03.jpg)
-![proto board](https://raw.githubusercontent.com/zortness/9v_cw_tx/master/smd_proto_04.jpg)
-
 ## SMD BOM
 
 ** WIP **
